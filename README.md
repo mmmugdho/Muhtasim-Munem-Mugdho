@@ -7,7 +7,7 @@
 <br/>
 <h1 align="center">Hi,I'm Muhtasim Munem Mugdho, Software Engineer</h1>
 <h3 align="center">Currently, I am working as "Software Engineer" at BJIT Limited.</h3>
-<!-- <h5 align="center">Loves to play cricket </h5> -->
+<h5 align="center">Love to learn </h5>
 
 <br/>
 
