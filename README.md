@@ -1,7 +1,7 @@
 # Muhtasim-Munem-Mugdho
 
 <p align="center">
-  <img width="250" src="https://github.com/mmmugdho/Muhtasim-Munem-Mugdho/blob/main/Animation%20-%201714243140006.gif">
+  <img width="250" src="https://github.com/mmmugdho/Muhtasim-Munem-Mugdho/blob/main/programmer.gif">
 </p>
 
 <br/>
