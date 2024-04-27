@@ -103,16 +103,15 @@
 
 
 ## 📈 Contribution Graph
-
+![Muhtasim Munem's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmmugdho&custom_title=Mugdho's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br/>
-<a href="https://github.com/mayurpai/github-readme-activity-graph"><img alt="Muhtasim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mmmugdho&bg_color=0D1127&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 
 ## Followers
-<a href="https://github.com/Jaima-Jarnaz?tab=followers"><img src="https://img.shields.io/github/followers/mmmugdho?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mmmugdho?tab=followers"><img src="https://img.shields.io/github/followers/mmmugdho?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 [tech_tools_anchor]: #bonjour--
